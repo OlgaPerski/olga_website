@@ -1,11 +1,24 @@
 ---
-title: "olga_website"
+title: "Welcome to my website!"
+about:
+  template: jolla
+  image: "images/david.jpg"
+  image-width: 30em
+  links:
+    - text: "{{< ai orcid >}} ORCID"
+      url: "https://orcid.org/0000-0001-9655-1656"
+    - text: Twitter
+      url: https://twitter.com/David_Simons_UK
+      icon: twitter
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: "https://scholar.google.com/citations?user=fT8u5MwAAAAJ&hl=en"
+    - text: GitHub
+      url: "https://github.com/DidDrog11"
+      icon: github
+    - text: Email
+      url: "mailto:dsimons19@rvc.ac.uk"
+      icon: envelope-fill
+    - text: C.V.
+      url: "data/cv.pdf"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
