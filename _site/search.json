@@ -2,15 +2,85 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "olga_website",
+    "title": "Welcome to my website!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m an interdisciplinary researcher and practitioner health psychologist working at the intersection of behavioural science and technology. My research is focused on the development, optimisation and evaluation of interventions for smoking cessation and alcohol reduction delivered via smartphone apps, chatbots and virtual reality. I’m interested in the technology-enabled, real-time assessment and modelling of within-person processes and ‘just-in-time adaptive interventions’.\nI’m an advocate of Open Science. I act as Co-Director for the Open Digital Health initiative, which aims to enable the scaling and sharing of evidence-informed digital health tools.\n\nBrief bio\n\nI completed my PhD in Health Psychology at University College London (UK) in 2018, with a thesis focused on the definition, measurement and promotion of user engagement with digital behaviour change interventions.\nAfter completing my PhD, I worked as a Research Fellow (2018-2021) and subsequently as a Senior Research Fellow (2021-2022) in the UCL Tobacco and Alcohol Research Group (UK).\nIn 2022, I was awarded a 3-year MSCA Postdoctoral Fellowship funded by the European Commission to work on the [COMPLAPSE]( “COMPLAPSE”) project. During my fellowship, I will spend two years in the Herbert Wertheim School of Public Health and Human Longevity Science at the University of California, San Diego (USA) and one year in the Faculty of Social Sciences at Tampere University (Finland).\nFor an updated list of my publications, please visit my Google Scholar page."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Olga Perski",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCan just-in-time adaptive interventions help solve the engagement crisis?\n\n\nCenter for Wireless & Population Health Systems, University of California, San Diego\n\n\n\n\n\n\nAug 6, 2019\n\n\n\n\n\n\n  \n\n\n\n\nTowards an operational definition of engagement with digital behaviour change interventions\n\n\nInternational Society of Behavioral Nutrition and Physical Activity Special Interest Group in e- & mHealth Webinar\n\n\n\n\n\n\nFeb 19, 2018\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/talk_folder/index.html",
+    "href": "talks/talk_folder/index.html",
+    "title": "Olga Perski",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nTowards an operational definition of engagement with digital behaviour change interventions\n\n\nInternational Society of Behavioral Nutrition and Physical Activity Special Interest Group in e- & mHealth Webinar\n\n\n\n\n\n\nFeb 19, 2018\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "consultancy.html",
+    "href": "consultancy.html",
+    "title": "Consultancy",
+    "section": "",
+    "text": "I regularly act as consultant on clinical, public health and industry projects (e.g. Smart Peak Flow Ltd, Adia Health Ltd). For example, in 2019, as part of the ‘Research to Venture Mental Health Programme’ funded by the Wellcome Trust (UK), I worked with Adia Health Ltd (now transformed into Parla) to conduct a mixed-methods pilot evaluation of a digital platform to support women’s physical and mental preconception health.\nI serve as unpaid scientific advisor for digital health companies including the Smoke Free app, Turn and the pre-print platform Qeios.\nPlease feel free to contact me regarding potential consultancies."
+  },
+  {
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "Policy engagement",
+    "section": "",
+    "text": "I have produced an evidence review written for the Royal College of Physicians (RCP), which was subsequently used to inform Public Health England’s (PHE) statement on smoking and COVID-19. Public Health England subsequently requested that the RCP review be converted into a living review. The review has since been updated 12 times, with the manuscript shared with PHE’s ‘tobacco and smoking cell’ directly and updated on a preprint server (with v7 published in a peer-reviewed journal). PHE referred to the review in response to a parliamentary question on smoking and COVID-19.\nI was invited, alongside members of the UK SPI-B, to provide expert input into the development of the UK coronavirus contact tracing app.\nI have contributed to health and technology policy formation by leading the UCL Centre for Behaviour Change’s submission to NICE’s consultation in preparation for updating their guideline on behaviour change to incorporate evidence on digital behaviour change interventions. In 2019, I provided academic stakeholder input into NICE’s Evidence Standards Framework for Digital Health Technologies. In 2020, I was invited to provide input into the WHO–ITU mHealth Hub in EU’s ‘Knowledge Tool 1: Assessment Frameworks in mHealth’."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Public engagement",
+    "section": "",
+    "text": "I regularly engage with the media to help disseminate research findings to the wider public, including podcasts, radio and news coverage.\nPodcasts\nScience VS podcast - Coronavirus: The Mask Wars\nAddiction journal podcast - Smoking and COVID-19 with Olga Perski\nAddiction journal podcast - JITAIs and using smartphones to prevent lapse with Olga Perski\nUCL Social Science Domain podcast - Episode 3: Towards meaningful interdisciplinary working in digital health research\nNews coverage\nBBC news - Smokers past and present ‘live in more pain’\nThe Conversation - Four potential consequences of wearing face masks we need to be wary of\nDaily Mail UK - MORE evidence smoking may cut the risk of coronavirus\nScience festivals\nIn 2019, I was invited to present my research at the public engagement festival Pint of Science (cancelled due to COVID-19)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching and Supervision",
+    "section": "",
+    "text": "I regularly contribute to research-based, connected teaching by delivering lectures and seminars on smoking cessation, the principles of behaviour change, and the development and evaluation of digital behaviour change interventions to BSc and MSc students at University College London, the University of Roehampton and City University, London. I regularly contribute to the marking of MSc coursework.\nI have acted as mentor on the UCL Centre for Behaviour Change’s Summer School. As part of my Stage 2 Professional Qualification in Health Psychology (awarded in December 2019), I have led several half-day workshops on the principles of behaviour change to a diverse range of healthcare professionals (e.g. Tommy’s, Nesta, BPS Division of Health Psychology in Northern Ireland)."
+  },
+  {
+    "objectID": "teaching.html#supervision-of-phd-students",
+    "href": "teaching.html#supervision-of-phd-students",
+    "title": "Teaching and Supervision",
+    "section": "Supervision of PhD students",
+    "text": "Supervision of PhD students\n2022-2025\nTosan Okpako (UCL). Developing a virtual reality scenario for smokers unmotivated to quit. [Secondary supervisor]. Funded by the UCL-Birkbeck MRC Doctoral Training Programme.\nCorinna Leppin (UCL). Development and pilot evaluation of a just-in-time adaptive intervention to prevent smoking lapses. [Secondary supervisor]. Funded by Cancer Research UK.\nPlease feel free to contact me regarding potential PhD supervision (this would currently require the development of a funding proposal)."
+  },
+  {
+    "objectID": "teaching.html#supervision-of-msc-students",
+    "href": "teaching.html#supervision-of-msc-students",
+    "title": "Teaching and Supervision",
+    "section": "Supervision of MSc students",
+    "text": "Supervision of MSc students\n2021-2022\nJonas Montilva-Monsalve (MSc Behaviour Change, UCL). Evaluation of barriers and enablers to adopt a healthier diet using a digital app, in patients with type 2 diabetes for more than 1.5 years: qualitative study using the COM-B model and Theoretical Domains Framework. [Secondary supervisor].\n2020-2021\nBruna Dimantas (MSc Behaviour Change, UCL). Exploring patients’ experiences of smartphone apps for Type 2 diabetes. [Secondary supervisor].\nAlice Alphonse (MSc Behaviour Change, UCL). Exploring smokers’ experiences of a supportive chatbot embedded within a popular smartphone app. [Primary supervisor].\nTabatha Macelligott (MSc Health Psychology, UCL). Stay home and smoke? Associations between smoking and the Covid-19 pandemic: Cross-sectional findings from the HEBECO study in the UK. [Primary supervisor].\nTrupti Jambharunkar (MSc Health Psychology, UCL). A virtual reality scenario on the health consequences of smoking: A pilot randomised trial with smokers unmotivated to quit. [Primary supervisor].\n2019-2020\nMaria Theodoraki (MSc Health Psychology, UCL). Associations between smoking to relieve stress, motivation to stop and quit attempts across the social spectrum: A population survey in England. [Primary supervisor].\nKezia Stewart (MSc Behaviour Change, UCL). A qualitative study of influences on engagement with a “quick response” and partially machine learning powered chatbot to help stop smoking. [Primary supervisor].\nFernanda Pacileo Trevisan (MSc Behaviour Change, UCL). Comparison of user engagement with health vs. non-health smartphone apps: A scoping review. [Primary supervisor].\nSimon Long (MSc Behaviour Change, UCL). What Theories, Behaviour Change Techniques and Engagement Features Are Present in Scientifically Sound Behaviour Change Smartphone Applications For Physical Activity and Nutritional Intake? A Scoping Review. [Primary supervisor].\n2018-2019\nKaramjeet Taak (MSc Health Psychology, UCL). Exploring views on alcohol consumption and the acceptability of a novel digital intervention within the UK male Punjabi-Sikh community: A qualitative study. [Primary supervisor].\nErlina Rees (MSc Health Psychology, UCL). Pain and smokers’ status mediated by mental health: a cross-sectional investigation using the BBC Lab UK study. [Primary supervisor].\nAstrid Nikiel (MSc Health Psychology, UCL). Personality trait typology of smoking and excessive alcohol use: a large online cross-sectional survey. [Primary supervisor].\n2017-2018\nShuya Li (MSc Behaviour Change, UCL). Understanding Sleep Behaviour in Chinese College Students Studying in the UK and Evaluating their Engagement with ‘Habitica’: A Qualitative Study. [Secondary supervisor].\n2016-2017\nElin Melander (MSc Clinical Psychology, Gothenburg University, Sweden). A smartphone-delivered intervention for insomnia: Does the addition of healthcare professional support influence user engagement? [Secondary supervisor]."
+  },
+  {
+    "objectID": "teaching.html#opportunities-for-learning-and-networking",
+    "href": "teaching.html#opportunities-for-learning-and-networking",
+    "title": "Teaching and Supervision",
+    "section": "Opportunities for learning and networking",
+    "text": "Opportunities for learning and networking\nI regularly create opportunities for learning and networking for others through organising events and webinars in my roles as Committee Member of the European Health Psychology Society’s Special Interest Group in Digital Health & Computer-Tailoring and Co-Director of the Open Digital Health initiative."
+  },
+  {
+    "objectID": "research/complapse.html",
+    "href": "research/complapse.html",
+    "title": "COMPLAPSE",
+    "section": "",
+    "text": "Cigarette smoking remains the leading preventable cause of premature morbidity and mortality in Europe and beyond. Gold standard treatment for smoking cessation includes pharmacotherapy and behavioural support. However, smoking lapses – influenced by momentary fluctuations in cigarette availability, stress, and cravings – are a key source of treatment failure. COMPLAPSE aims to advance the state-of-the-art by developing and validating a dynamic systems model of lapse risk, improving the precision of static behaviour change theories to account for observed complexities and laying the foundation for dynamically tailored, person-centred digital smoking cessation interventions for increased effectiveness. COMPLAPSE is interdisciplinary in scope – drawing on know-how from behavioural science, engineering, and computer science – and directly contributes to Europe’s Path to the Digital Decade and its Strategic Framework for the Prevention of Non-Communicable Diseases. First, a conceptual model will be developed by articulating a diverse group of collaborators’ (i.e., researchers, policymakers, practitioners, smokers) dynamic predictions through participatory systems mapping. Next, a computational model will be developed through formulating mathematical equations for each model component, followed by a series of computer simulations to iteratively refine the model to align with the collaborators’ predictions. Finally, the model will be validated against temporally dense experience sampling and sensor data collected in smokers’ daily lives across different geographies to critically examine whether the computational model outperforms state-of-the-art behaviour change theories. The outputs from COMPLAPSE are expected to act as a robust starting point for the development of dynamically tailored and person-centred smoking cessation interventions, enabled by digital technologies, such as smartphone apps and wearable sensors that are ubiquitous in both high- and low-income settings.\nCOMPLAPSE is funded by the European Commission under the Horizon Europe Framework Programme (HORIZON), Grant No. 101065293. COMPLAPSE is led by Dr. Olga Perski and supported by Prof. Nelli Hankonen (Tampere University), Prof. Eric Hekler (University of California, San Diego) and Prof. Misha Pavel (Northeastern University).\nThe data and analytical code underpinning the analyses in COMPLAPSE will be made openly available via GitHub in due course."
   }
 ]

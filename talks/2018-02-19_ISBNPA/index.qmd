@@ -1,0 +1,11 @@
+---
+title: "Towards an operational definition of engagement with digital behaviour change interventions"
+subtitle: "International Society of Behavioral Nutrition and Physical Activity Special Interest Group in e- & mHealth Webinar"
+author:
+  - "Olga Perski"
+date: "2018-02-19"
+categories: [Engagement, Digital Health]
+image: "featured.jpg"
+---
+
+{{< video https://www.youtube.com/embed/e0hJry5GszE >}}

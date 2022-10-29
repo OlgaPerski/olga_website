@@ -1,0 +1,30 @@
+---
+title: "Public engagement"
+fig-cap-location: bottom
+---
+
+I regularly engage with the media to help disseminate research findings to the wider public, including podcasts, radio and news coverage.
+
+**Podcasts**
+
+Science VS podcast - <a href="https://gimletmedia.com/shows/science-vs/xjheev2/coronavirus-the-mask-wars">Coronavirus: The Mask Wars</a>
+
+Addiction journal podcast - <a href="https://podcasts.apple.com/us/podcast/smoking-and-covid-19-with-olga-perski/id1511420493?i=1000473451511">Smoking and COVID-19 with Olga Perski</a>
+
+Addiction journal podcast - <a href="https://podcasts.apple.com/us/podcast/jitais-and-using-smartphones-to-prevent-lapse-with/id1511420493?i=1000539870700">JITAIs and using smartphones to prevent lapse with Olga Perski</a>
+
+UCL Social Science Domain podcast - <a href="https://soundcloud.com/uclsound/towards-meaningful-interdisciplinary-working-in-digital-health-research">Episode 3: Towards meaningful interdisciplinary working in digital health research</a>
+
+**News coverage**
+
+BBC news - <a href="https://www.bbc.com/news/health-50813228">Smokers past and present 'live in more pain'</a>
+
+The Conversation - <a href="https://theconversation.com/four-potential-consequences-of-wearing-face-masks-we-need-to-be-wary-of-140273">Four potential consequences of wearing face masks we need to be wary of</a>
+
+Daily Mail UK - <a href="https://www.dailymail.co.uk/news/article-8264635/More-proof-smokers-risk-catching-coronavirus-expert-admits-weird.html">MORE evidence smoking may cut the risk of coronavirus</a>
+
+**Science festivals**
+
+In 2019, I was invited to present my research at the public engagement festival <a href="https://pintofscience.com/">Pint of Science</a> (cancelled due to COVID-19). 
+
+<img src="images/media.jpg" figcaption="Photo by Unsplash" class="center" width = "600">
