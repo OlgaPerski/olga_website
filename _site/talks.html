@@ -65,7 +65,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-talks .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing-1 .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -74,11 +74,11 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-author","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-talks'] = new List('listing-talks', options);
+    window['quarto-listings']['listing-listing-1'] = new List('listing-listing-1', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -105,7 +105,8 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="Dr.&nbsp;Olga Perski - Talks">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="./talks/2022-05-09_mDOT/featured.png">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -144,27 +145,27 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
  <span class="dropdown-text">EMASENS</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/odh.qmd"><i class="bi bi-door-open-fill" role="img">
+    <a class="dropdown-item" href="./research/odh_database.html"><i class="bi bi-door-open-fill" role="img">
 </i> 
  <span class="dropdown-text">Open Digital Health initiative Living Review &amp; Database Development</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/vr.qmd"><i class="bi bi-badge-vr" role="img">
+    <a class="dropdown-item" href="./research/vr_smoking.html"><i class="bi bi-badge-vr" role="img">
 </i> 
  <span class="dropdown-text">Virtual Reality for Smokers Unmotivated to Stop</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/swed.qmd"><i class="bi bi-balloon-heart" role="img">
+    <a class="dropdown-item" href="./research/wellbeing_students.html"><i class="bi bi-balloon-heart" role="img">
 </i> 
  <span class="dropdown-text">Mental Wellbeing in Swedish University Students During COVID-19</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/fsa.qmd"><i class="bi bi-card-checklist" role="img">
+    <a class="dropdown-item" href="./research/fsa_qat.html"><i class="bi bi-card-checklist" role="img">
 </i> 
  <span class="dropdown-text">UK Food Standards Agency - Quality Assurance Toolkit</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/ema.qmd"><i class="bi bi-sliders" role="img">
+    <a class="dropdown-item" href="./research/ema_review.html"><i class="bi bi-sliders" role="img">
 </i> 
  <span class="dropdown-text">Systematic Review of Ecological Momentary Assessment Studies</span></a>
   </li>  
@@ -179,7 +180,7 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
  <span class="dropdown-text">Acceptability of and Engagement with Digital Behaviour Change Interventions</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/smoking.qmd"><i class="bi bi-house-door" role="img">
+    <a class="dropdown-item" href="./research/sts_ats.html"><i class="bi bi-house-door" role="img">
 </i> 
  <span class="dropdown-text">UCL Smoking &amp; Alcohol Toolkit Studies</span></a>
   </li>  
@@ -190,7 +191,7 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks/index.html">
+    <a class="nav-link active" href="./talks.html" aria-current="page">
  <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
@@ -227,14 +228,8 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#talks" id="toc-talks" class="nav-link active" data-scroll-target="#talks">Talks</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"></div></div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="digital health">digital health <span class="quarto-category-count">(3)</span></div><div class="category" data-category="engagement">engagement <span class="quarto-category-count">(3)</span></div><div class="category" data-category="just-in-time adaptive interventions">just-in-time adaptive interventions <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -255,13 +250,18 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
 
 </header>
 
-<section id="talks" class="level2">
-<h2 class="anchored" data-anchor-id="talks">Talks</h2>
-<div id="listing-talks" class="quarto-listing quarto-listing-container-grid">
+<div id="talks">
+
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing-1">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-talks-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-talks'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+     <select id="listing-listing-1-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing-1'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
          <option value="listing-title" data-direction="asc">
@@ -281,11 +281,68 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1667016126965" data-listing-reading-time-sort="0.005">
-<a href="./talks/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="engagement,digital health" data-listing-date-sort="1652079600000" data-listing-file-modified-sort="1667099664913" data-listing-reading-time-sort="0.02">
+<a href="./talks/2022-05-09_mDOT/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="card-img-bg" style="height: 150px;">
-&nbsp;
+<p class="card-img-top">
+<img src="./talks/2022-05-09_mDOT/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tools &amp; frameworks for solving the ‘engagement crisis’ in mHealth research &amp; practice
+</h5>
+<div class="card-subtitle listing-subtitle">
+mDOT Center Webinar
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 9, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="engagement,digital health,just-in-time adaptive interventions" data-listing-date-sort="1565074800000" data-listing-file-modified-sort="1667098648186" data-listing-reading-time-sort="0.83">
+<a href="./talks/2019-08-06_JITAI_engagement/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./talks/2019-08-06_JITAI_engagement/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Can just-in-time adaptive interventions help solve the engagement crisis?
+</h5>
+<div class="card-subtitle listing-subtitle">
+Center for Wireless &amp; Population Health Systems, University of California, San Diego
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 6, 2019
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="engagement,digital health" data-listing-date-sort="1519027200000" data-listing-file-modified-sort="1667098611466" data-listing-reading-time-sort="0.02">
+<a href="./talks/2018-02-19_ISBNPA/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./talks/2018-02-19_ISBNPA/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Towards an operational definition of engagement with digital behaviour change interventions
+</h5>
+<div class="card-subtitle listing-subtitle">
+International Society of Behavioral Nutrition and Physical Activity Special Interest Group in e- &amp; mHealth Webinar
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 19, 2018
+</div>
+</div>
 </div>
 </div>
 </a>
@@ -294,13 +351,7 @@ gtag('config', 'G-WF7G4G33CE', { 'anonymize_ip': true});
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-
-
-
-</section>
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
