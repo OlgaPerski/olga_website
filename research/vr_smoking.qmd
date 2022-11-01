@@ -1,0 +1,12 @@
+---
+title: "Virtual Reality for Smokers Unmotivated to Stop"
+---
+Individual-level interventions for smokers unmotivated to quit remain scarce and have had limited success. Little is known about the potential of virtual reality (VR) for delivering messaging to smokers unmotivated to quit. VR refers to the creation of a digital environment that has the potential to evoke strong sensory experiences, accessed through increasingly widespread technologies such as head-mounted displays.
+
+<center>![](vr.jpg){width=40%}
+
+<figcaption>Photo by Unsplash</figcaption></center><br>
+
+We (Dr. Olga Perski, Dr. Dimitra Kale, Prof. Jamie Brown) helped develop a brief VR scenario – suited for delivery in smokers’ own homes and accessible via commercially available head-mounted displays without involving a joystick – grounded in the Extended Parallel Process Model. Following user testing but prior to conducting a large-scale randomised controlled trial, we considered it important to conduct a <a href="https://journals.plos.org/digitalhealth/article/comments?id=10.1371/journal.pdig.0000060">pilot trial</a> to assess the feasibility of recruitment and acceptability of the VR scenario. Although the target sample size was not achieved within our feasibility window, an amendment to gift inexpensive headsets via post appeared feasible. The brief VR scenario appeared acceptable to smokers unmotivated to quit; however, we concluded that future work would benefit from optimising the VR scenario prior to conducting a larger-scale study.
+
+Tosan Okpako joined the project in October 2022. As part of her PhD, Tosan will lead the development of an immersive VR scenario to increase motivation in smokers unmotivated to stop. The formative development of the VR scenario will be informed by the Medical Research Council’s guidance for developing and evaluating complex interventions. The project will take a person-based approach, which aims to ground the intervention in a deep understanding of the perspectives of people who will eventually use it. A person-based approach helps ensure that the resulting intervention is usable, engaging, effective and will have high uptake.

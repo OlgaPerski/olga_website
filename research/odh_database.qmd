@@ -1,0 +1,16 @@
+---
+title: "The Open Digital Health initiative: Development of a Living Review and Database of Digital Health Tools"
+---
+The <a href="https://opendigitalhealth.org/">Open Digital Health (ODH) initiative</a> is a not-for-profit organisation that encourages health scientists, practitioners and technology developers to share and reuse open digital health tools. 
+
+<center>![](odh_directors.png){width=40%}</center><br>
+
+As part of the ODH initiative, and in close collaboration with <a href="https://behaviorchange.eu/">Dr. Gjalt-Jorn Peters</a> (The Open University of the Netherlands), I'm co-leading the development of a living review and database of digital health tools. Tools to support health promotion are increasingly developed using digital technologies, allowing them to be more dynamic and situated than was possible with older media and facilitating reuse of tool components. At the same time, opportunities for reuse are limited by tools being insufficiently documented, findable, accessible, interoperable, or licensed insufficiently permissively. To avoid waste of public funds, it would be beneficial if there were an open, public database of digital health tools. This would help researchers, prevention professionals, policymakers, and healthcare workers to identify available technologies and explore the evidence for their effectiveness. To populate a first version of such a database, we will conduct a living review of digital health tools.
+
+Deciding which entities to extract and how each entity will be extracted (e.g., categories, coding instructions) is an important first step in developing this living review. Given the weight of this decision, combined with the multidisciplinary nature of the review topic, it is important to base the decision on expertise from a wide range of scientific disciplines (e.g., behavioural science, computer science, human-computer interaction) and geographic regions. Therefore, we will use a procedure that combines elements of Multi-Criteria Decision Analysis and the Delphi method to leverage expertise from a group of experts and transparently base the decisions on this information. This approach combines the best of two worlds: asynchronous pooling of expertise and a transparent and systematic decision procedure.
+
+We will use successive rounds where the “participants” (i.e., expert collaborators) provide information, interact with information prepared beforehand or provided in earlier rounds, and provide ratings. The procedure for deciding which entities to extract has been <a href="https://osf.io/wj5hz">pre-registered</a>.
+
+The results from the project (publicised after each consecutive round) are openly available on <a href="https://opendigitalhealth.gitlab.io/open-digital-health-living-review-protocol-development-procedure/">GitLab</a>.
+
+

@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Olga Perski"
+  title: "Dr. Olga Perski"
   google-analytics: "G-WF7G4G33CE"
   twitter-card: true
   open-graph: false
@@ -17,36 +17,46 @@ website:
         menu: 
           - text: "COMPLAPSE"
             href: research/complapse.qmd
-            icon: phone
+            icon: graph-up
           - text: "EMASENS"
             href: research/emasens.qmd
-          - text: "ODH Living Review & Database"
+            icon: smartwatch
+          - text: "Open Digital Health initiative Living Review & Database Development"
             href: research/odh.qmd
-          - text: "Virtual Reality"
+            icon: door-open-fill
+          - text: "Virtual Reality for Smokers Unmotivated to Stop"
             href: research/vr.qmd
             icon: badge-vr
-          - text: "Mental Wellbeing"
+          - text: "Mental Wellbeing in Swedish University Students During COVID-19"
             href: research/swed.qmd
-          - text: "Food Standards Agency, UK"
+            icon: balloon-heart
+          - text: "UK Food Standards Agency - Quality Assurance Toolkit"
             href: research/fsa.qmd
-          - text: "EMA Review"
+            icon: card-checklist
+          - text: "Systematic Review of Ecological Momentary Assessment Studies"
             href: research/ema.qmd
-          - text: "COVID-19"
+            icon: sliders
+          - text: "COVID-19, Smoking and Personal Protective Behaviours"
             href: research/covid.qmd
-          - text: "Engagement"
+            icon: bug
+          - text: "Acceptability of and Engagement with Digital Behaviour Change Interventions"
             href: research/engagement.qmd
-          - text: "Smoking Toolkit Study"
+            icon: phone-vibrate
+          - text: "UCL Smoking & Alcohol Toolkit Studies"
             href: research/smoking.qmd
+            icon: house-door
       - text: "Talks"
         href: talks/index.qmd
-      - text: "In The Media"
-        href: media.qmd
-      - text: "Teaching and Supervision"
+      - text: "Teaching and supervision"
         href: teaching.qmd
-      - text: "Consultancies"
-        href: consultancy.qmd
-      - text: "Policy Engagement"
+      - text: "Public engagement"
+        href: media.qmd
+      - text: "Policy engagement"
         href: policy.qmd
+      - text: "Consultancies"
+        href: consultancies.qmd
+      - text: "Blog"
+        href: blog.qmd
         
 format:
   html:

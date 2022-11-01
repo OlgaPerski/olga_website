@@ -1,0 +1,24 @@
+---
+title: "Consultancies"
+---
+I regularly act as consultant on clinical, public health and industry projects. *Please feel free to contact me regarding potential consultancies.*
+
+
+<center>![](images/consultancy.jpg){width=40%}
+
+<figcaption>Photo by Unsplash</figcaption></center>
+
+## Digital health start-ups
+
+In 2014-2015, I worked with the mental wellbeing smartphone app Remente (Gothenburg, Sweden) to optimise their intervention messages.
+
+In 2017, I worked with Smart Peak Flow Ltd (London, UK) to optimise the intervention messages provided as part of a smartphone app and a linked smart device to measure the peak expiratory flow rate in adults with asthma.
+
+In 2019, as part of the 'Research to Venture Mental Health Programme' funded by the Wellcome Trust (UK), I worked with Adia Health Ltd (now transformed into Parla Ltd) to conduct a mixed-methods pilot evaluation of a digital platform to support women's physical and mental preconception health.
+
+In 2020, I worked with ONKO Health (London, UK) to advise on the number and wording of survey items and feedback messages to use as part of a cancer support smartphone app.
+
+## Scientific advisory roles
+
+I serve as unpaid scientific advisor for digital health companies including the <a href="https://smokefreeapp.com/">Smoke Free app</a>, <a href="https://www.turn.io/">Turn</a> and the pre-print platform <a href="https://www.qeios.com/teaser">Qeios</a>.
+

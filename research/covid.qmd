@@ -1,0 +1,15 @@
+---
+title: "COVID-19, Smoking and Personal Protective Behaviours"
+---
+During the initial outbreak of the COVID-19 pandemic (2020-2022), I co-led a <a href="https://www.qeios.com/read/UJR2AW.15">living review</a> (updated 12 times, with <a href="https://onlinelibrary.wiley.com/doi/10.1111/add.15276">version 7</a> published in a peer-reviewed journal) of evidence on the association of smoking status with SARS-CoV-2 infection, hospitalisation, disease severity and mortality. Each update was shared directly with Public Health England’s tobacco control team and the charitable organisation Action on Smoking & Health. We found that compared with never smokers, current smokers appeared to be at reduced risk of SARS-CoV-2 infection and increased risk of greater in-hospital disease severity, while former smokers appeared to be at increased risk of hospitalisation, greater in-hospital disease severity and mortality from COVID-19. However, it is uncertain whether these associations are causal.
+
+I co-led a <a href="https://f1000research.com/articles/10-846">case-control study</a> at a UK hospital site to examine the association of smoking status with hospitalisation for COVID-19 compared with other respiratory viruses a year previous. We found that in a single UK hospital trust, current smokers had reduced odds of being hospitalised with COVID-19 compared with other respiratory viruses a year previous, although it is unclear whether this association is causal. Targeted post-discharge recording of smoking status may account for the greater EHR-medical notes concordance observed in cases compared with controls.
+
+I also contributed to a <a href="https://www.ucl-covid19research.co.uk/">large survey study</a> to gain a better understanding of the impact of COVID-19 on smoking, <a href="https://doi.org/10.1016/j.drugalcdep.2021.108590">vaping</a> and alcohol consumption among UK adults. We found that among UK adults, self-reported diagnosed/suspected COVID-19 was not associated with vaping status. Half of current vapers reported changing their vaping consumption since the COVID-19 outbreak, with the majority reporting an increase, and a minority was motivated to quit due to COVID-19.
+
+I also led a rapid review and meta-analysis of interventions to <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjhp.12542">increase personal protective behaviours to limit the spread of respiratory viruses.</a> We identified 39 studies conducted across 15 countries. We found low-quality evidence for positive effects of interventions targeting hand hygiene, with unclear results for interventions targeting face mask use. There was a lack of evidence for most behaviours of interest within this review.
+
+<center>![](covid.jpg){width=60%}
+
+<figcaption>Photo by Unsplash</figcaption></center>
+

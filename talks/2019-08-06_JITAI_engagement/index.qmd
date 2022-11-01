@@ -4,7 +4,7 @@ subtitle: "Center for Wireless & Population Health Systems, University of Califo
 author:
   - "Olga Perski"
 date: "2019-08-06"
-categories: [Engagement, Digital Health]
+categories: [engagement, digital health, just-in-time adaptive interventions]
 image: "featured.jpg"
 ---
 
