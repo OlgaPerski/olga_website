@@ -45,6 +45,8 @@ website:
           - text: "UCL Smoking & Alcohol Toolkit Studies"
             href: research/smoking.qmd
             icon: house-door
+      - text: "Publications"
+        url: "https://scholar.google.co.uk/citations?user=t7lihTUAAAAJ&hl=en"
       - text: "Talks"
         href: talks/index.qmd
       - text: "Teaching and supervision"
