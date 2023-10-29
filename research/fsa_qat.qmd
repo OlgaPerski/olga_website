@@ -6,4 +6,4 @@ When producing and assessing high-quality research, it is important to be open a
 
 I co-led the development of the FSA QAT in collaboration with Dr. Danielle D’Lima and Prof. Jamie Brown between February and August 2022. Drawing on co-creation practices, we worked with the FSA and their Assurance Working Group to collaboratively develop the topics to be covered within the QAT. A series of focus groups were held with FSA staff in March 2022. This was followed by a scoping review of internal and external guidance to help populate the QAT. The QAT was iteratively developed through multiple rounds of feedback from the Advisory Committee for Social Science and piloting on several study protocols, research reports, and tender specifications between April and July 2022.
 
-The QAT was publicised on the FSA website in October 2023: <a href="https://doi.org/https://doi.org/10.46756/sci.fsa.dak566">
+The QAT was <a href="https://doi.org/https://doi.org/10.46756/sci.fsa.dak566">publicised</a> on the FSA website in October 2023.
