@@ -20,7 +20,7 @@ about:
       url: "mailto:olga.perski@tuni.fi"
       icon: envelope-fill
     - text: CV
-      href: CV.pdf
+      href: "https://drive.google.com/file/d/1m5deNmyOTBVG-M3MYbCuNZOdetckLX5q/view?usp=drive_link"
 ---
 
 I'm an interdisciplinary researcher and practitioner health psychologist working at the intersection of behavioural science and technology. My research is focused on the development, optimisation and evaluation of interventions for smoking cessation and alcohol reduction delivered via <a href="https://f1000research.com/articles/10-511/v2">smartphone apps<a/>, <a href="https://journals.sagepub.com/doi/full/10.1177/2055207619880676">chatbots</a> and <a href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000060">virtual reality</a>. I'm interested in the technology-enabled, real-time assessment and modelling of <a href="https://academic.oup.com/tbm/advance-article/doi/10.1093/tbm/ibaa026/5838784">within-person processes</a> and associated <a href="https://pubmed.ncbi.nlm.nih.gov/34514668/">"just-in-time adaptive interventions"</a>, which can provide the right type of support to people, when it's most needed. I'm an advocate of Open Science. I act as Co-Director for the <a href="https://www.opendigitalhealth.org/">Open Digital Health initiative</a>, which aims to enable the scaling and sharing of evidence-informed digital health tools.

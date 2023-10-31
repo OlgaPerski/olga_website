@@ -1,0 +1,21 @@
+---
+title: "Towards improving the precision of health psychology theories"
+subtitle: "Health Psychology in 2023: Transforming Paradigms (EHPS Symposium)"
+author:
+  - "Olga Perski"
+date: "2023-09-08"
+categories: [systems science, formal modelling, dynamical systems modelling, theory]
+image: "featured.jpeg"
+---
+
+```{=html}
+<iframe src="https://mfr.de-1.osf.io/render?url=https://osf.io/download/5wmtp/?direct%26mode=render"
+    width="100%"
+    scrolling="yes"
+    height="677px"
+    marginheight="0"
+    frameborder="0"
+    allowfullscreen
+    webkitallowfullscreen
+    title="Towards improving the precision of health psychology theories"></iframe>
+```

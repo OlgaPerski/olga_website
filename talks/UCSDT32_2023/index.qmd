@@ -1,0 +1,21 @@
+---
+title: "An introduction to systems science"
+subtitle: "UCSD T32 in Integrated Cardiovascular Epidemiology"
+author:
+  - "Olga Perski"
+date: "2023-10-20"
+categories: [systems science, formal modelling, dynamical systems modelling]
+image: "featured.jpg"
+---
+
+```{=html}
+<iframe src="https://mfr.osf.io/render?url=https://osf.io/download/h763x/?direct%26mode=render"
+    width="100%"
+    scrolling="yes"
+    height="677px"
+    marginheight="0"
+    frameborder="0"
+    allowfullscreen
+    webkitallowfullscreen
+    title="An introduction to systems science"></iframe>
+```

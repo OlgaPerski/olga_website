@@ -2,9 +2,12 @@
   {
     "listing": "/talks.html",
     "items": [
-      "/talks/2022-05-09_mDOT/index.html",
-      "/talks/2019-08-06_JITAI_engagement/index.html",
-      "/talks/2018-02-19_ISBNPA/index.html"
+      "/talks/UCSDT32_2023/index.html",
+      "/talks/UCSDCultivatingConversations_2023/index.html",
+      "/talks/EHPS_2023/index.html",
+      "/talks/mDOT_2022/index.html",
+      "/talks/JITAI_engagement_2019/index.html",
+      "/talks/ISBNPA_2019/index.html"
     ]
   }
 ]

@@ -1,12 +1,8 @@
----
-title: "COMPLAPSE"
-subtitle: "Improving the precision of behaviour change theories: Development and validation of a dynamic COMPutational model of LAPSE risk in smokers attempting to stop"
----
 <center>![](complapse.png){width=60%}
-
-<figcaption>Logo designed using image by bsd_studio (Image #28812502 at VectorStock.com)</figcaption></center><br>
-
-Cigarette smoking remains the leading preventable cause of premature morbidity and mortality in Europe and beyond. Gold standard treatment for smoking cessation includes pharmacotherapy and behavioural support. However, smoking lapses – influenced by momentary fluctuations in cigarette availability, stress, and cravings – are a key source of treatment failure. COMPLAPSE aims to advance the state-of-the-art by developing and validating a formal, dynamical systems model of lapse risk, improving the precision of static behaviour change theories to account for observed complexities and laying the foundation for dynamically tailored, person-centred digital smoking cessation interventions for increased effectiveness. COMPLAPSE is interdisciplinary in scope – drawing on know-how from behavioural science, systems science, and control engineering – and directly contributes to Europe’s Path to the Digital Decade and its Strategic Framework for the Prevention of Non-Communicable Diseases.
+<br></br>
+**Improving the precision of behaviour change theories: Development and validation of a dynamic COMPutational model of LAPSE risk in smokers attempting to stop (COMPLAPSE)**</center>
+<br></br>
+Cigarette smoking remains the leading preventable cause of premature morbidity and mortality in Europe and beyond. Gold standard treatment for smoking cessation includes pharmacotherapy and behavioural support. However, smoking lapses – influenced by momentary fluctuations in cigarette availability, stress, and cravings – are a key source of treatment failure. COMPLAPSE aims to advance the state-of-the-art by developing and validating a formal, dynamical systems model of lapse risk, improving the precision of static behaviour change theories to account for observed complexities and laying the foundation for dynamically tailored, person-centred digital smoking cessation interventions for increased effectiveness. COMPLAPSE is interdisciplinary in scope – drawing on know-how from behavioural science, [systems science and dynamical systems modelling](../talks/UCSDT32_2023/index.qmd) – and directly contributes to Europe’s Path to the Digital Decade and its Strategic Framework for the Prevention of Non-Communicable Diseases.
 
 COMPLAPSE is funded by the European Commission under the Horizon Europe Framework Programme (HORIZON), Grant No. 101065293 (PI: Dr. Olga Perski; Mentors: Prof. Nelli Hankonen and Prof. Eric Hekler).
 
@@ -25,7 +21,21 @@ See Figure 1 for an overview of the WPs within COMPLAPSE.
 
 ### WP1
 
-Health psychology theories are needed to improve capacities to predict, explain, and influence phenomena of interest. Scientific progress is hampered by the ‘theory crisis’, whereby most of our available health psychology theories exist as under-specified box-and-arrow diagrams and imprecise natural language descriptions of the inter-relationships between phenomena of interest. At the same time, a growing body of evidence made possible by recent technological advances highlights that many health-related behaviours display characteristics of dynamical systems (e.g., they fluctuate non-linearly within individuals over time and across contexts). Health psychologists have begun to recognise that we, as a field, must become better able to theorise about dynamical systems if we want to make progress on the most pressing issues of our times (e.g., addiction, obesity, mental health, and climate change). ‘Formal modelling’ (i.e., the mathematical or logical formalisation of a theory’s structure) in combination with a dynamical systems lens has the potential to narrow the gap between emerging empirical evidence and current health psychology theories, and simultaneously equip researchers and decision-makers with tools that can help us tackle the biggest challenges facing our societies today. The aim of WP1 is therefore to conduct a scoping review of the extent and nature of research activities pertaining to the use of formal, dynamical systems modelling of health behaviours (e.g., tobacco smoking, alcohol consumption). We aim to synthesise existing methodological steps used in the published literature (i.e., a bottom up approach), with a view to aiding researchers who intend to use formal, dynamical systems modelling in future work. We will follow the scoping review guidelines developed by Arksey and O'Malley, starting with the identification and selection of relevant studies, followed by the charting of the data, and the collating, summarising, and reporting of the results. The <a href="https://osf.io/zx2de/">scoping review protocol</a> is available on the Open Science Framework.
+Health psychology theories are needed to improve capacities to predict, explain, and influence phenomena of interest. Scientific progress is hampered by the ‘theory crisis’, whereby most of our available health psychology theories exist as under-specified box-and-arrow diagrams and imprecise natural language descriptions of the inter-relationships between phenomena of interest. At the same time, a growing body of evidence made possible by recent technological advances highlights that many health-related behaviours display characteristics of dynamical systems (e.g., they fluctuate non-linearly within individuals over time and across contexts). Health psychologists have begun to recognise that we, as a field, must become better able to theorise about dynamical systems if we want to make progress on the most pressing issues of our times (e.g., addiction, obesity, mental health, and climate change). ‘Formal modelling’ (i.e., the mathematical or logical formalisation of a theory’s structure) in combination with a dynamical systems lens has the potential to narrow the gap between emerging empirical evidence and current health psychology theories, and simultaneously equip researchers and decision-makers with tools that can help us tackle the biggest challenges facing our societies today.
+
+```{=html}
+<center><iframe src="https://mfr.de-1.osf.io/render?url=https://osf.io/download/5wmtp/?direct%26mode=render"
+    width="70%"
+    scrolling="yes"
+    height="677px"
+    marginheight="0"
+    frameborder="0"
+    allowfullscreen
+    webkitallowfullscreen
+    title="Towards improving the precision of health psychology theories"></iframe></center>
+```
+
+The aim of WP1 is therefore to conduct a scoping review of the extent and nature of research activities pertaining to the use of formal, dynamical systems modelling of health behaviours (e.g., tobacco smoking, alcohol consumption). We aim to synthesise existing methodological steps used in the published literature (i.e., a bottom up approach), with a view to aiding researchers who intend to use formal, dynamical systems modelling in future work. We will follow the scoping review guidelines developed by Arksey and O'Malley, starting with the identification and selection of relevant studies, followed by the charting of the data, and the collating, summarising, and reporting of the results. The <a href="https://osf.io/zx2de/">scoping review protocol</a> is available on the Open Science Framework.
 
 ### WP2
 
@@ -45,9 +55,7 @@ Next, mathematical equations will be formulated and translated into R code. Init
 
 ### WP4
 
-Next, EMA and sensor data will be collected to help calibrate and validate the formal, dynamical systems model. Participants will be recruited via social media platforms. Eligibility criteria will include being an adult, daily smoker who i) owns a smartphone, ii) is willing to make a quit attempt, and iii) is willing to respond to regular EMAs and wear a sensor for the duration of the study (to be determined following the results from WPs 2-3). At least 50% of smokers will be recruited from lower socioeconomic position groups and an equal proportion of women and men will be recruited.
-
-We will fit the formal, dynamical systems model developed in WPs 2-3 to the data collected and goodness of fit statistics will be calculated. Model comparisons will be conducted.
+Next, EMA and sensor data will be collected to help calibrate and validate the formal, dynamical systems model. Participants will be recruited via social media platforms. Eligibility criteria will include being an adult, daily smoker who i) owns a smartphone, ii) is willing to make a quit attempt, and iii) is willing to respond to regular EMAs and wear a sensor for the duration of the study (to be determined following the results from WPs 2-3). At least 50% of smokers will be recruited from lower socioeconomic position groups and an equal proportion of women and men will be recruited. We will fit the formal, dynamical systems model developed in WPs 2-3 to the data collected and goodness of fit statistics will be calculated. Model comparisons will be conducted.
 
 ### WP5
 
@@ -56,3 +64,5 @@ The scoping review in WP1 used a bottom up approach to identify the extent and n
 ### WP6
 
 This website will be used for dissemination of findings from project COMPLAPSE, including scientific publications, talks, blogs, and workshops.
+
+<figcaption>Logo designed using image by bsd_studio (Image #28812502 at VectorStock.com)</figcaption></center><br>

@@ -1,0 +1,21 @@
+---
+title: "Open Science practices to advance digital health/AI research"
+subtitle: "UCSD Cultivating Conversations Seminar Series"
+author:
+  - "Olga Perski"
+date: "2023-09-19"
+categories: [open science, digital health]
+image: "featured.jpg"
+---
+
+```{=html}
+<iframe src="https://mfr.osf.io/render?url=https://osf.io/download/m67wp/?direct%26mode=render"
+    width="100%"
+    scrolling="yes"
+    height="677px"
+    marginheight="0"
+    frameborder="0"
+    allowfullscreen
+    webkitallowfullscreen
+    title="Open Science practices to advance digital health/AI research"></iframe>
+```
