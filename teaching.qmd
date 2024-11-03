@@ -4,7 +4,9 @@ title: "Teaching and supervision"
 
 ## Teaching
 
-I regularly contribute to research-based, connected teaching by delivering lectures and seminars on smoking cessation, the principles of behaviour change, and the development and evaluation of digital behaviour change interventions to BSc, MSc and PhD students. I regularly contribute to the marking of MSc coursework.
+I regularly contribute to research-based, connected teaching by delivering lectures, seminars and workshops about smoking cessation, the principles of behaviour change, Ecological Momentary Assessment, and the development and evaluation of digital behaviour change interventions (including Just-in-Time Adaptive Interventions) to BSc, MSc and PhD students.
+
+In 2023, I co-led a <a href="https://osf.io/67tkm/?view_only=">Virtual Exchange Seminar</a> (5 ECTS) to MSc students at the University of Bern (Switzerland) and Tampere University (Finland) in collaboration with <a href="https://www.gpv.psy.unibe.ch/about_us/personen/dbaretta/index_eng.html#pane1353846">Dr Dario Baretta</a> from the University of Bern, which focused on the development and evaluation of theory-informed digital behaviour change interventions.
 
 As part of my Stage 2 Professional Qualification in Health Psychology (awarded in December 2019), I have led several half-day workshops on the principles of behaviour change to a diverse range of healthcare professionals (e.g. Tommy’s, Nesta, BPS Division of Health Psychology in Northern Ireland). 
 
@@ -20,11 +22,11 @@ As part of my Stage 2 Professional Qualification in Health Psychology (awarded i
 
 #### **2022-2025**
 
-Tosan Okpako (UCL). Developing a virtual reality scenario for smokers unmotivated to quit. Funded by the UCL-Birkbeck MRC Doctoral Training Programme. [Secondary supervisor]. 
+Tosan Okpako (UCL). Developing a virtual reality scenario for smokers unmotivated to quit. Funded by the UCL-Birkbeck MRC Doctoral Training Programme. [Subsidiary supervisor]. 
 
-Corinna Leppin (UCL). Development and pilot evaluation of a just-in-time adaptive intervention to prevent smoking lapses. Funded by Cancer Research UK. [Secondary supervisor].
+Corinna Leppin (UCL). Development and pilot evaluation of a just-in-time adaptive intervention to prevent smoking lapses. Funded by Cancer Research UK. [Subsidiary supervisor].
 
-*Please feel free to contact me regarding potential PhD supervision (this would currently require the development of a funding proposal).*
+*Please feel free to contact me regarding potential PhD supervision.*
 
 ## Supervision of MSc students
 
@@ -73,6 +75,8 @@ Elin Melander (MSc Clinical Psychology, Gothenburg University, Sweden). A smartp
 I regularly create opportunities for learning and networking for other early-career researchers through organising <a href="https://osf.io/hgsbr/">events and webinars</a> in my roles as Committee Member of the <a href="https://twitter.com/ehpsdigihealth?lang=en">European Health Psychology Society’s Special Interest Group in Digital Health & Computer-Tailoring</a> and Co-Director of the <a href="https://opendigitalhealth.org/">Open Digital Health initiative</a>.
 
 In 2022, <a href="https://research-portal.uea.ac.uk/en/persons/felix-naughton">Prof. Felix Naughton</a> and I co-led the 2-day <a href="https://osf.io/n4xsg/">EHPS CREATE pre-conference workshop</a> ("Digitalising Health Psychology Research to enhance our science").
+
+In 2023, Prof. Felix Naughton, <a href="https://research.wur.nl/en/persons/monique-simons">Dr Monique Simons</a> and I co-led the inaugural 2-day JITAI Winter School, which focused on the development, optimisation and evaluation of JITAIs for health behaviour change.
 
 <center>![](images/ehps_sig.jpeg){width=40%}</c>
 
