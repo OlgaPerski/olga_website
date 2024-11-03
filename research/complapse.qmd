@@ -7,6 +7,8 @@
 
 COMPLAPSE is funded by the European Commission under the Horizon Europe Framework Programme (HORIZON), Grant No. 101065293 (PI: Dr. Olga Perski; Mentors: Prof. Nelli Hankonen and Prof. Eric Hekler). This website will be used for the dissemination of the projcet findings, including linkes to scientific publications, talks and blogs.
 
+### Aims and objectives
+
 Cigarette smoking remains the leading preventable cause of premature morbidity and mortality in Europe and beyond. Gold standard treatment for smoking cessation includes pharmacotherapy and behavioural support. However, smoking lapses – influenced by momentary fluctuations in cigarette availability, stress, and cravings – are a key source of treatment failure. COMPLAPSE aims to advance the state-of-the-art by developing and validating a formal, dynamical systems model of lapse risk, improving the precision of static behaviour change theories to account for observed complexities and laying the foundation for dynamically tailored, person-centred digital smoking cessation interventions for increased effectiveness. COMPLAPSE is interdisciplinary in scope – drawing on know-how from behavioural science, [systems science and dynamical systems modelling](../talks/UCSDT32_2023/index.qmd) – and directly contributes to Europe’s Path to the Digital Decade and its Strategic Framework for the Prevention of Non-Communicable Diseases. COMPLAPSE aims to address the following Research and Innovation Objectives (ROIs), with each ROI associated with a dedicated Work Package (WP):
 
 ROI1. To develop a conceptual model of lapse risk, drawing on stakeholder input and the researcher’s knowledge of the available literature via participatory systems mapping (WP1).
@@ -37,7 +39,7 @@ The aim of WP1 was to develop a conceptual model of lapse risk in smokers attemp
 
 After conducting the scoping review, we drew on the <a href="https://journals.sagepub.com/doi/full/10.1177/1745691620969647">Theory Construction Methodology</a> to develop a dynamic model of smoking lapse and relapse. We used a participatory, iterative, multi-method approach to iteratively develop the conceptual model (also referred to as a 'prototheory'), which included: i) an informal theory review of popular lapse and relapse theories; and ii) two linked stakeholder interviews with researchers, people with lived experience, stop smoking practitioners, and policymakers (N = 15).
 
-<center>![](COMPLAPSE_mod_comp.png){width=60%}
+<center>![](COMPLAPSE_mod_comp.png){width=120%}
 
 ### WP2
 
