@@ -57,6 +57,20 @@ Next, we translated the prototheory into a series of difference equations which 
     title="The participatory development of a formal and computational model of smoking lapse and relapse"></iframe></center>
 ```
 
+We wrote a magazine article to describe how we worked together, integrating know-how from health psychology and mathematics/modelling, to translate the prototheory into a formal and computational model:
+
+```{=html}
+<center><iframe src="https://ehps.net/ehp/index.php/contents/issue/view/123/179"
+    width="70%"
+    scrolling="yes"
+    height="677px"
+    marginheight="0"
+    frameborder="0"
+    allowfullscreen
+    webkitallowfullscreen
+    title="Formal, dynamical systems modelling to advance health psychology theories: Interdisciplinary working where psychology meets mathematics"></iframe></center>
+```
+
 ### WP3
 
 During the final stage of project COMPLAPSE, we will collect EMA and sensor data to validate the dynamic model of lapse and relapse. Eligibility criteria will include being an adult, daily smoker who i) owns a smartphone, ii) is willing to make a quit attempt, and iii) is willing to respond to regular EMAs and wear a smartwatch for the duration of the study. We will fit the formal model to the data from each participant and goodness-of-fit statistics will be calculated.
