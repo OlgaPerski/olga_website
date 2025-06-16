@@ -75,7 +75,16 @@ We also wrote a magazine article to describe how we worked together - integratin
 
 In the final stage of project COMPLAPSE, we are collecting EMA and smartwatch data to empirically evaluate the dynamic model of lapse and relapse. Eligibility criteria include being an adult, daily smoker who i) resides in Sweden and speaks English or Swedish fluently, ii) owns a smartphone, iii) is willing to make a quit attempt, and iv) is willing to respond to frequent EMAs and wear a smartwatch for 28 days. We will fit the formal model to the data from each participant and goodness-of-fit statistics will be calculated.
 
-If you are interested in participating in the study, please read the participant information sheet in <a href="/research/Participant information sheet.pdf" target="_blank" rel="noopener">English</a> or <a href="/research/Information till forskningspersoner.pdf" target="_blank" rel="noopener">Swedish</a> and contact the lead researcher via e-mail (olga.perski@su.se).
+ENG: If you are interested in participating in the study, please read the <a href="/research/Participant information sheet.pdf" target="_blank" rel="noopener">participant information sheet</a> and contact the lead researcher via e-mail (olga.perski@su.se).
+
+SVE: Om du är intresserad av att delta i studien, läs igenom <a href="/research/Information till forskningspersoner.pdf" target="_blank" rel="noopener">informationen till forskningspersoner</a> och kontakta ansvarig forskare via e-mejl (olga.perski@su.se).
+
+<div style="display: flex; justify-content: center;">
+  <embed src="/research/Study advert.pdf"
+         type="application/pdf"
+         width="800px"
+         height="500px" />
+</div>
 
 ### WP4
 
