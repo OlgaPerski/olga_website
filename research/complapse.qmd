@@ -5,7 +5,7 @@
 
 <figcaption>Logo designed using image by bsd_studio (Image #28812502 at VectorStock.com)</figcaption></center><br>
 
-COMPLAPSE is funded by the European Commission under the Horizon Europe Framework Programme (HORIZON), Grant No. 101065293 (PI: Dr. Olga Perski; Mentors: Prof. Nelli Hankonen and Prof. Eric Hekler). This website will be used for the dissemination of the projcet findings, including linkes to scientific publications, talks and blogs.
+COMPLAPSE is funded by the European Commission under the Horizon Europe Framework Programme (HORIZON), Grant No. 101065293 (PI: Dr. Olga Perski; Mentors: Prof. Nelli Hankonen and Prof. Eric Hekler). This website will be used for the dissemination of the project findings, including links to scientific publications, talks and blogs.
 
 ### Aims and objectives
 
@@ -37,7 +37,7 @@ Theories are needed to predict, explain, and influence phenomena of interest. Po
 
 The aim of WP1 was to develop a conceptual model of lapse risk in smokers attempting to stop. However, due to the lack of fit-for-purpose methodological guidance, we first conducted a <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2400977?src=#d1e264">scoping review</a> to examine the extent and nature of research activities pertaining to the use of formal and computational modelling to predict, explain and influence health behaviours unfolding at the within-person level. We synthesised methodological steps in the published literature and generated a set of initial, expert-derived ‘best practice’ modelling recommendations, which informed the next steps of our research.
 
-After conducting the scoping review, we drew on the <a href="https://journals.sagepub.com/doi/full/10.1177/1745691620969647">Theory Construction Methodology</a> to develop a dynamic model of smoking lapse and relapse. We used a participatory, iterative, multi-method approach to iteratively develop the conceptual model (also referred to as a 'prototheory'), which included: i) an informal theory review of popular lapse and relapse theories; and ii) two linked stakeholder interviews with researchers, people with lived experience, stop smoking practitioners, and policymakers (N = 15).
+After conducting the scoping review, we drew on the <a href="https://journals.sagepub.com/doi/full/10.1177/1745691620969647">Theory Construction Methodology</a> to develop a dynamic model of smoking lapse and relapse. We used a participatory, multi-method approach to iteratively develop the conceptual model (also referred to as a 'prototheory'), which included: i) an informal theory review of popular lapse and relapse theories; and ii) two linked stakeholder interviews with researchers, people with lived experience, stop smoking practitioners, and policymakers (N = 15).
 
 <center>![](COMPLAPSE_mod_comp.png){width=120%}
 
@@ -57,7 +57,7 @@ Next, we translated the prototheory into a series of difference equations which 
     title="The participatory development of a formal and computational model of smoking lapse and relapse"></iframe></center>
 ```
 
-We wrote a magazine article to describe how we worked together, integrating know-how from health psychology and mathematics/modelling, to translate the prototheory into a formal and computational model:
+We also wrote a magazine article to describe how we worked together - integrating know-how from health psychology and mathematics/modelling - to translate the prototheory into a formal and computational model:
 
 ```{=html}
 <center><iframe src="https://ehps.net/ehp/index.php/contents/issue/view/123/179"
@@ -73,7 +73,9 @@ We wrote a magazine article to describe how we worked together, integrating know
 
 ### WP3
 
-During the final stage of project COMPLAPSE, we will collect EMA and sensor data to validate the dynamic model of lapse and relapse. Eligibility criteria will include being an adult, daily smoker who i) owns a smartphone, ii) is willing to make a quit attempt, and iii) is willing to respond to regular EMAs and wear a smartwatch for the duration of the study. We will fit the formal model to the data from each participant and goodness-of-fit statistics will be calculated.
+In the final stage of project COMPLAPSE, we are collecting EMA and smartwatch data to empirically evaluate the dynamic model of lapse and relapse. Eligibility criteria include being an adult, daily smoker who i) resides in Sweden and speaks English or Swedish fluently, ii) owns a smartphone, iii) is willing to make a quit attempt, and iv) is willing to respond to frequent EMAs and wear a smartwatch for 28 days. We will fit the formal model to the data from each participant and goodness-of-fit statistics will be calculated.
+
+If you are interested in participating in the study, please read the participant information sheet in <a href="/research/Participant information sheet.pdf" target="_blank" rel="noopener">English</a> or <a href="/research/Information till forskningspersoner.pdf" target="_blank" rel="noopener">Swedish</a> and contact the lead researcher via e-mail (olga.perski@su.se).
 
 ### WP4
 
