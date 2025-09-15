@@ -5,7 +5,25 @@
 
 <figcaption>Logo designed using image by bsd_studio (Image #28812502 at VectorStock.com)</figcaption></center><br>
 
-COMPLAPSE is funded by the European Commission under the Horizon Europe Framework Programme (HORIZON), Grant No. 101065293 (PI: Dr. Olga Perski; Mentors: Prof. Nelli Hankonen and Prof. Eric Hekler). This website will be used for the dissemination of the project findings, including links to scientific publications, talks and blogs.
+COMPLAPSE was funded between 2022-2025 by the European Commission under the Horizon Europe Framework Programme (HORIZON), Grant No. 101065293 (PI: Dr. Olga Perski; Mentors: Prof. Nelli Hankonen and Prof. Eric Hekler). This website is used for the dissemination of the project findings, including links to scientific publications, presentations and videos.
+
+### Brief project summary
+
+The EU-funded project, COMPLAPSE, developed a formal and computational model of smoking lapse and relapse. We combined scientific theory, patient perspectives, and clinical know-how. The model, available as an interactive web app, can be used to simulate relapse risk and inform personalised, evidence-based digital cessation strategies.
+
+Discover how COMPLAPSE is turning complexity into actionable insights for public health.
+
+Watch the video (produced by <a href="https://www.horizonresultsbooster.eu/">Booster</a>):
+
+```{=html}
+<center><iframe src="https://player.vimeo.com/video/1115396045"
+  width="90%" height="400px"
+  frameborder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  allowfullscreen
+  title="Summary of project COMPLAPSE">
+</iframe></center>
+```
 
 ### Aims and objectives
 
@@ -13,15 +31,13 @@ Cigarette smoking remains the leading preventable cause of premature morbidity a
 
 ROI1. To develop a conceptual model of lapse risk, drawing on stakeholder input and the researcher’s knowledge of the available literature via participatory systems mapping (WP1).
 
-ROI2. To formulate mathematical equations for each component in the conceptual model and perform a series of computer simulations (WP2).
+ROI2. To formulate mathematical equations for each component in the conceptual model and conduct a series of computer simulations (WP2).
 
 ROI3. To collect and analyse EMA and sensor data and use this to validate the expert-derived dynamic computational model (WP3).
 
-ROI4. To propose a set of 'best practice' recommendations for how to use formal and computational modelling in health psychology research (WP4).
-
 ### WP1
 
-Theories are needed to predict, explain, and influence phenomena of interest. Popular relapse prevention theories are vaguely specified using natural language descriptions and lack temporal information about how key phenomena (i.e., 'relapse', 'prolapse', 'abstinence') are dynamically caused over time and within individuals. Formal modelling involves the translation of a theory’s structure into a mathematical framework and can help mitigate psychology’s ‘theory crisis’, which contributes to the wider reproducibility crisis.
+Theories are needed to predict, explain, and influence phenomena of interest. Popular relapse prevention theories are vaguely specified using natural language descriptions and lack temporal information about how key phenomena (i.e., 'relapse', 'prolapse', 'abstinence') are dynamically caused over time and within individuals. Formal modelling involves the translation of a theory’s structure into a mathematical framework and can help mitigate the ongoing 'theory crisis' in psychology and related disciplines, which contributes to the wider reproducibility crisis.
 
 ```{=html}
 <center><iframe src="https://mfr.de-1.osf.io/render?url=https://osf.io/download/5wmtp/?direct%26mode=render"
@@ -35,9 +51,11 @@ Theories are needed to predict, explain, and influence phenomena of interest. Po
     title="Towards improving the precision of health psychology theories"></iframe></center>
 ```
 
-The aim of WP1 was to develop a conceptual model of lapse risk in smokers attempting to stop. However, due to the lack of fit-for-purpose methodological guidance, we first conducted a <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2400977?src=#d1e264">scoping review</a> to examine the extent and nature of research activities pertaining to the use of formal and computational modelling to predict, explain and influence health behaviours unfolding at the within-person level. We synthesised methodological steps in the published literature and generated a set of initial, expert-derived ‘best practice’ modelling recommendations, which informed the next steps of our research.
+The aim of WP1 was to develop a conceptual model of lapse risk in smokers attempting to stop, with a view to using this to formulate a formal and computational model. However, due to the lack of fit-for-purpose methodological guidance, we first conducted a <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2400977?src=#d1e264">scoping review</a> to examine the extent and nature of research activities pertaining to the use of formal and computational modelling to predict, explain and influence health behaviours unfolding at the within-person level. We synthesised methodological steps in the published literature and generated a set of initial, expert-derived ‘best practice’ modelling recommendations.
 
-After conducting the scoping review, we drew on the <a href="https://journals.sagepub.com/doi/full/10.1177/1745691620969647">Theory Construction Methodology</a> to develop a dynamic model of smoking lapse and relapse. We used a participatory, multi-method approach to iteratively develop the conceptual model (also referred to as a 'prototheory'), which included: i) an informal theory review of popular lapse and relapse theories; and ii) two linked stakeholder interviews with researchers, people with lived experience, stop smoking practitioners, and policymakers (N = 15).
+In addition, since formal and computational modelling has been used for decades in other scientific disciplines, we also took a broader perspective and conducted another <a href="https://osf.io/preprints/psyarxiv/y7w8j_v1">scoping review</a> in which we synthesised modelling guidance from diverse disciplines (e.g., psychology, engineering, biology, physics). The two scoping reviews (and the ongoing discussions with the involved interdisciplinary researchers) informed the next steps of our research.
+
+After conducting the scoping reviews, we drew on the <a href="https://journals.sagepub.com/doi/full/10.1177/1745691620969647">Theory Construction Methodology</a> to develop a dynamic model of smoking lapse and relapse. We used a participatory, multi-method approach to iteratively develop the conceptual model (also referred to as a 'prototheory'), which included: i) an informal theory review of popular lapse and relapse theories; and ii) two linked stakeholder interviews with researchers, people with lived experience, stop smoking practitioners, and policymakers (N = 15).
 
 <center>![](COMPLAPSE_mod_comp.png){width=120%}
 
@@ -73,19 +91,4 @@ We also wrote a magazine article to describe how we worked together - integratin
 
 ### WP3
 
-In the final stage of project COMPLAPSE, we are collecting EMA and smartwatch data to empirically evaluate the dynamic model of lapse and relapse. Eligibility criteria include being an adult, daily smoker who i) resides in Sweden and speaks English or Swedish fluently, ii) owns a smartphone, iii) is willing to make a quit attempt, and iv) is willing to respond to frequent EMAs and wear a smartwatch for 28 days. We will fit the formal model to the data from each participant and goodness-of-fit statistics will be calculated.
-
-ENG: If you are interested in participating in the study, please read the <a href="/research/Participant information sheet.pdf" target="_blank" rel="noopener">participant information sheet</a> and contact the lead researcher via e-mail (olga.perski@su.se).
-
-SVE: Om du är intresserad av att delta i studien, läs igenom <a href="/research/Information till forskningspersoner.pdf" target="_blank" rel="noopener">informationen till forskningspersoner</a> och kontakta ansvarig forskare via e-mejl (olga.perski@su.se).
-
-<div style="display: flex; justify-content: center;">
-  <embed src="/research/Study advert.pdf"
-         type="application/pdf"
-         width="800px"
-         height="500px" />
-</div>
-
-### WP4
-
-In WP4, we will draw on the knowledge generated within project COMPLAPSE and other, related modelling projects to write a tutorial on how to develop formal models in health psychology research. The scoping review in WP1 used a bottom-up approach to identify modelling practices in the published literature and then used this to propose a set of initial, expert-derived modelling recommendations. In WP4, however, we aim to take a broader view by reviewing and synthesising interdisciplinary modelling guidance from several disciplines (e.g., psychology, engineering, biology, physics). We will use this to provide in-depth modelling recommendations.
+In the final stage of project COMPLAPSE, we are collecting EMA and smartwatch data to empirically evaluate the dynamic model of lapse and relapse. Data collection is still ongoing. We will fit the formal model to the data from each participant and calculate goodness-of-fit statistics.

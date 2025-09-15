@@ -11,52 +11,57 @@ website:
     foreground: light
     background: dark
     left:
-      - href: index.qmd
-        text: Home
-      - text: "Research"
-        menu: 
-          - text: "COMPLAPSE"
-            href: research/complapse.qmd
-            icon: graph-up
-          - text: "EMASENS"
-            href: research/emasens.qmd
-            icon: smartwatch
-          - text: "Open Digital Health initiative Living Review & Database Development"
-            href: research/odh_database.qmd
-            icon: door-open-fill
-          - text: "Virtual Reality for Smokers Unmotivated to Stop"
-            href: research/vr_smoking.qmd
-            icon: badge-vr
-          - text: "Mental Wellbeing in Swedish University Students During COVID-19"
-            href: research/wellbeing_students.qmd
-            icon: balloon-heart
-          - text: "UK Food Standards Agency - Quality Assurance Toolkit"
-            href: research/fsa_qat.qmd
-            icon: card-checklist
-          - text: "Systematic Review of Ecological Momentary Assessment Studies"
-            href: research/ema_review.qmd
-            icon: sliders
-          - text: "COVID-19, Smoking and Personal Protective Behaviours"
-            href: research/covid.qmd
-            icon: bug
-          - text: "Acceptability of and Engagement with Digital Behaviour Change Interventions"
-            href: research/engagement.qmd
-            icon: phone-vibrate
-          - text: "UCL Smoking & Alcohol Toolkit Studies"
-            href: research/sts_ats.qmd
-            icon: house-door
-      - text: "Publications"
-        url: "https://scholar.google.co.uk/citations?user=t7lihTUAAAAJ&hl=en"
-      - text: "Talks"
-        href: talks.qmd
-      - text: "Teaching and supervision"
-        href: teaching.qmd
-      - text: "Public engagement"
-        href: media.qmd
-      - text: "Policy engagement"
-        href: policy.qmd
-      - text: "Consultancies"
-        href: consultancies.qmd
+    - href: index.qmd
+      text: Home
+    - text: "Research"
+      menu:
+        - text: "Time Matters"
+          href: research/time_matters.qmd
+          icon: clock-history
+        - text: "COMPLAPSE"
+          href: research/complapse.qmd
+          icon: graph-up
+        - text: "EMASENS"
+          href: research/emasens.qmd
+          icon: smartwatch
+        - text: "Open Digital Health initiative Living Review & Database Development"
+          href: research/odh_database.qmd
+          icon: door-open-fill
+        - text: "Virtual Reality for Smokers Unmotivated to Stop"
+          href: research/vr_smoking.qmd
+          icon: badge-vr
+        - text: "Mental Wellbeing in Swedish University Students During COVID-19"
+          href: research/wellbeing_students.qmd
+          icon: balloon-heart
+        - text: "UK Food Standards Agency - Quality Assurance Toolkit"
+          href: research/fsa_qat.qmd
+          icon: card-checklist
+        - text: "Systematic Review of Ecological Momentary Assessment Studies"
+          href: research/ema_review.qmd
+          icon: sliders
+        - text: "COVID-19, Smoking and Personal Protective Behaviours"
+          href: research/covid.qmd
+          icon: bug
+        - text: "Acceptability of and Engagement with Digital Behaviour Change Interventions"
+          href: research/engagement.qmd
+          icon: phone-vibrate
+        - text: "UCL Smoking & Alcohol Toolkit Studies"
+          href: research/sts_ats.qmd
+          icon: house-door
+    - text: "Publications"
+      url: "https://scholar.google.co.uk/citations?user=t7lihTUAAAAJ&hl=en"
+    - text: "Talks"
+      href: talks.qmd
+    - text: "Teaching and supervision"
+      href: teaching.qmd
+    - text: "Public engagement"
+      href: media.qmd
+    - text: "Policy engagement"
+      href: policy.qmd
+    - text: "Consultancies"
+      href: consultancies.qmd
+    - text: "Take part in our research"
+      href: takepart.qmd
         
 format:
   html:

@@ -1,0 +1,15 @@
+<center>![](erc.png){width=60%}
+<br></br>
+**Time Matters: Uncovering dynamic mechanisms and optimising the intervention timing across the addictions**</center>
+<br></br>
+
+Time Matters is funded by the European Research Council (ERC-2025-StG) under Horizon Europe (HORIZON), Grant No. 101219875 (PI: Dr. Olga Perski).
+
+### Aims and objectives
+
+Time Matters aims to address one of the greatest challenges in addiction: relapse prevention. The project conceptualises addictive behaviours as dynamical systems that evolve non-linearly over time and within individuals. Through collecting and modelling high-resolution data from smartphones and smartwatches in the daily life, Time Matters will develop an adaptive algorithm capable of delivering the right type of support to each person, when and where they most need it. In doing so, the project will provide a new framework for understanding and preventing relapse across the addictions.
+
+### News
+
+I'll soon be hiring several team members - stay tuned for job postings!
+

@@ -1,0 +1,99 @@
+---
+title: "Take part in our research"
+fig-cap-location: bottom
+---
+
+We regularly run studies to better understand how to support individuals with addictive behaviours. By taking part, you will be contributing to research that aims to improve people's health and wellbeing and help develop new treatments and tools.
+
+On this page, you will find a list of studies which are currently open. For each study, you will find information about:
+
+- What the study is about
+- Who can take part
+- What participation involves
+- How to sign up
+
+### **Pilot study: Using control systems engineering in smoking cessation to optimise a just-in-time adaptive intervention for relapse prevention**
+
+<div style="display: flex; justify-content: center;">
+  <embed src="/research/Study advert.pdf"
+         type="application/pdf"
+         width="800px"
+         height="500px" />
+</div>
+
+#### **What is the study about?**
+
+Cigarette smoking leads to illness and premature death. The best thing you can do for your health is to quit smoking, but it is difficult and the risk of relapse is high. Studies using mobile phones and smartwatches to measure various risk factors in the daily life show that smoking cessation is a dynamic process. Therefore, relapse prevention efforts need to have the ability to deliver the right type of psychological support to each individual, when and where they need it most (“just-in-time”).
+
+This interdisciplinary project aims to develop dynamic models that describe the mechanisms underlying lapse and relapse when trying to quit smoking. A further aim is to investigate what type of psychological support is optimal for preventing relapse, for application in a future individually tailored “just-in-time adaptive intervention”.
+
+#### **Who can take part?**
+
+You can take part if:
+
+- You are over 18 years of age
+- You live in Sweden and can speak, read and write in Swedish or English
+- You smoke cigarettes daily
+- You are willing to set a date to quit smoking (which means that you will try to never smoke a cigarette again)
+- You are willing to wear a smartwatch (which will be loaned to you) and answer short, daily smartphone surveys for 28 days
+
+You cannot take part if:
+
+- You have a history of arrhythmias (e.g. atrial fibrillation)
+- You regularly take beta-blockers (e.g. atenolol, bisoprolol)
+- You have an implanted cardiac device
+
+#### **What does participation involve?**
+
+If you decide to take part, you will first give consent and complete an online questionnaire about your age and smoking patterns. If you are eligible, you will be invited to an online video call with a researcher where we will explain the study, show you how the apps and smartwatch work, and ask you to set a quit date.
+
+You will then receive a smartwatch by post. From your quit date, you will wear the watch and complete short smartphone surveys (2–3 minutes each) several times a day for 28 days. You will also receive brief supportive messages (“microinterventions”).
+
+At the end of the 28 days, you will be asked to complete a short survey about your experiences.
+
+#### **How do I sign up?**
+
+If you are interested in participating in the study, please read the <a href="/research/Participant information sheet.pdf" target="_blank" rel="noopener">participant information sheet</a> and complete the <a href="https://survey.su.se/Survey/57665">screening survey</a> to register your interest and check if you are eligible to take part.
+
+### **Pilotstudie: Tillämpning av kontrollsystemteknik inom rökavvänjning för att optimera en återfallsförebyggande "just-in-time" adaptiv intervention**
+
+<div style="display: flex; justify-content: center;">
+  <embed src="/research/Annonsmaterial.pdf"
+         type="application/pdf"
+         width="800px"
+         height="500px" />
+</div>
+
+#### **Vad är det för ett projekt?**
+
+Cigarettrökning leder till sjukdom och förtidig död. Det bästa man kan göra för sin hälsa är att sluta röka men det är svårt och återfallsrisken är stor. Studier som använt mobiltelefoner och smarta klockor för att mäta olika riskfaktorer i det dagliga livet visar att rökavvänjning är en dynamisk process. Därför behöver återfallsförebyggande insatser ha förmågan att leverera rätt typ av psykologiskt stöd till varje enskild individ, när och var de mest behöver det (”just-in-time”).
+
+Det här tvärvetenskapliga projektet har som mål att utveckla dynamiska modeller som beskriver de mekanismer som ligger till grund för återfall när man försöker sluta röka. Ytterligare ett mål är att undersöka vilken typ av psykologiskt stöd som är optimalt för att förebygga återfall, för tillämpning i en framtida individanpassad ”just-in-time” adaptiv intervention.
+
+#### **Vem kan delta?**
+
+Du kan delta i studien om:
+
+- Du är över 18 år gammal
+- Du bor i Sverige och kan tala, läsa och skriva på svenska eller engelska
+- Du röker cigaretter dagligen
+- Du är villig att sätta ett datum för rökstopp (vilket betyder att du kommer att försöka att aldrig mer röka en cigarett)
+- Du är villig att ha på dig en smartklocka och svara på korta, dagliga smartphoneenkäter under 28 dagar
+
+Du kan inte delta om:
+
+- Du har en historia av arytmier (t.ex. förmaksflimmer)
+- Du regelbundet tar betablockerare (t.ex. atenolol, bisoprolol)
+- Du har en implanterad hjärtrytmenhet
+
+#### **Vad innebär deltagandet?**
+
+Om du väljer att delta kommer du först att ge ditt samtycke och fylla i ett webbaserat frågeformulär om din ålder och dina rökvanor. Om du är berättigad att delta i studien blir du inbjuden till ett kort videomöte med en forskare, där vi visar hur apparna och smartklockan fungerar samt ber dig att sätta ett datum för ditt rökstopp.
+
+Därefter får du en smartklocka hemskickad. Från och med datumet för rökstoppet kommer du att ha på dig klockan och besvara korta enkäter i din mobiltelefon (2–3 minuter vardera) flera gånger per dag under 28 dagar. Du kommer också att få korta stödmeddelanden (“mikrointerventioner”) via din mobiltelefon.
+
+Efter de 28 dagarna ombeds du att fylla i en kort enkät om dina erfarenheter av att delta i studien.
+
+#### **Hur anmäler jag mig?**
+
+Om du är intresserad av att delta i studien, läs igenom <a href="/research/Information till forskningspersoner.pdf" target="_blank" rel="noopener">informationen till forskningspersoner</a> och fyll i <a href="https://survey.su.se/Survey/57665/sv">screeningenkäten</a> för att anmäla ditt intresse och se om du är berättigad att delta.
