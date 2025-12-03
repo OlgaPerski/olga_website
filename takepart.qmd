@@ -32,10 +32,12 @@ This interdisciplinary project aims to develop dynamic models that describe the 
 You can take part if:
 
 - You are over 18 years of age
-- You live in Sweden and can speak, read and write in Swedish or English
+- You live in Stockholm, Sweden and can speak, read and write in Swedish or English
 - You smoke cigarettes daily
 - You are willing to set a date to quit smoking (which means that you will try to never smoke a cigarette again)
 - You are willing to wear a smartwatch (which will be loaned to you) and answer short, daily smartphone surveys for 28 days
+- You are willing to visit Stockholm University twice (once for the study set-up and a second time when you have completed the study).
+-	You are willing and able to provide an exhaled carbon monoxide (eCO) measure at the end of the study (e.g., people with a diagnosis of asthma or COPD sometimes find it difficult to provide eCO measures).
 
 You cannot take part if:
 
@@ -45,15 +47,15 @@ You cannot take part if:
 
 #### **What does participation involve?**
 
-If you decide to take part, you will first give consent and complete an online questionnaire about your age and smoking patterns. If you are eligible, you will be invited to an online video call with a researcher where we will explain the study, show you how the apps and smartwatch work, and ask you to set a quit date.
+If you decide to take part, you will first give consent and complete an online questionnaire about your age and smoking patterns. If you are eligible, you will be invited to attend an in-person meeting at Stockholm University where we will explain how the different study apps and smartwatch work and ask you to set a quit date.
 
-You will then receive a smartwatch by post. From your quit date, you will wear the watch and complete short smartphone surveys (2–3 minutes each) several times a day for 28 days. You will also receive brief supportive messages (“microinterventions”).
+From your quit date, you will wear the watch and complete short smartphone surveys (2–3 minutes each) several times a day for 28 days. You will also receive brief supportive messages (“microinterventions”).
 
-At the end of the 28 days, you will be asked to complete a short survey about your experiences.
+At the end of the 28 days, you will be invited back to Stockholm University for a brief follow-up meeting where we will ask about your experiences of participating in the study.
 
 #### **How do I sign up?**
 
-If you are interested in participating in the study, please read the <a href="/research/Participant information sheet.pdf" target="_blank" rel="noopener">participant information sheet</a> and complete the <a href="https://survey.su.se/Survey/57665">screening survey</a> to register your interest and check if you are eligible to take part.
+If you are interested in participating in the study, please read the <a href="/research/Participant information sheet_website.pdf" target="_blank" rel="noopener">participant information sheet</a> and complete the <a href="https://survey.su.se/Survey/57665">screening survey</a> to register your interest and check if you are eligible to take part.
 
 ### **Pilotstudie: Tillämpning av kontrollsystemteknik inom rökavvänjning för att optimera en återfallsförebyggande "just-in-time" adaptiv intervention**
 
@@ -79,6 +81,8 @@ Du kan delta i studien om:
 - Du röker cigaretter dagligen
 - Du är villig att sätta ett datum för rökstopp (vilket betyder att du kommer att försöka att aldrig mer röka en cigarett)
 - Du är villig att ha på dig en smartklocka och svara på korta, dagliga smartphoneenkäter under 28 dagar
+-	Du är villig att besöka Stockholms universitet två gånger (en gång för att sätta upp studien och en gång när du har slutfört studien)
+-	Du är villig och kapabel att lämna en mätning av utandad kolmonoxid vid slutet av studien (t.ex. kan personer med diagnosen astma eller KOL ibland ha svårt att ge sådana mätningar).
 
 Du kan inte delta om:
 
@@ -88,12 +92,12 @@ Du kan inte delta om:
 
 #### **Vad innebär deltagandet?**
 
-Om du väljer att delta kommer du först att ge ditt samtycke och fylla i ett webbaserat frågeformulär om din ålder och dina rökvanor. Om du är berättigad att delta i studien blir du inbjuden till ett kort videomöte med en forskare, där vi visar hur apparna och smartklockan fungerar samt ber dig att sätta ett datum för ditt rökstopp.
+Om du väljer att delta kommer du först att ge ditt samtycke och fylla i ett webbaserat frågeformulär om din ålder och dina rökvanor. Om du är berättigad att delta i studien blir du inbjuden till ett möte på Stockholms universitet där forskarna berättar mer om studieapparna och smartklockan samt ber dig att sätta ett datum för ditt rökstopp.
 
-Därefter får du en smartklocka hemskickad. Från och med datumet för rökstoppet kommer du att ha på dig klockan och besvara korta enkäter i din mobiltelefon (2–3 minuter vardera) flera gånger per dag under 28 dagar. Du kommer också att få korta stödmeddelanden (“mikrointerventioner”) via din mobiltelefon.
+Från och med datumet för rökstoppet kommer du att ha på dig klockan och besvara korta enkäter i din mobiltelefon (2–3 minuter vardera) flera gånger per dag under 28 dagar. Du kommer också att få korta stödmeddelanden (“mikrointerventioner”) via din mobiltelefon.
 
-Efter de 28 dagarna ombeds du att fylla i en kort enkät om dina erfarenheter av att delta i studien.
+Efter 28 dagar kommer du att bjudas in till Stockholms universitet för ett kort uppföljningsmöte där vi kommer att fråga om dina erfarenheter av att ha deltagit i studien.
 
 #### **Hur anmäler jag mig?**
 
-Om du är intresserad av att delta i studien, läs igenom <a href="/research/Information till forskningspersoner.pdf" target="_blank" rel="noopener">informationen till forskningspersoner</a> och fyll i <a href="https://survey.su.se/Survey/57665/sv">screeningenkäten</a> för att anmäla ditt intresse och se om du är berättigad att delta.
+Om du är intresserad av att delta i studien, läs igenom <a href="/research/Information till forskningspersoner_webbsida.pdf" target="_blank" rel="noopener">informationen till forskningspersoner</a> och fyll i <a href="https://survey.su.se/Survey/57665/sv">screeningenkäten</a> för att anmäla ditt intresse och se om du är berättigad att delta.
