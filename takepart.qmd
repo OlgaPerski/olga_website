@@ -14,13 +14,6 @@ On this page, you will find a list of studies which are currently open. For each
 
 ### **Pilot study: Using control systems engineering in smoking cessation to optimise a just-in-time adaptive intervention for relapse prevention**
 
-<div style="display: flex; justify-content: center;">
-  <embed src="/research/Study advert.pdf"
-         type="application/pdf"
-         width="800px"
-         height="500px" />
-</div>
-
 #### **What is the study about?**
 
 Cigarette smoking leads to illness and premature death. The best thing you can do for your health is to quit smoking, but it is difficult and the risk of relapse is high. Studies using mobile phones and smartwatches to measure various risk factors in the daily life show that smoking cessation is a dynamic process. Therefore, relapse prevention efforts need to have the ability to deliver the right type of psychological support to each individual, when and where they need it most (“just-in-time”).
@@ -58,13 +51,6 @@ At the end of the 28 days, you will be invited back to Stockholm University for 
 If you are interested in participating in the study, please read the <a href="/research/Participant information sheet_website.pdf" target="_blank" rel="noopener">participant information sheet</a> and complete the <a href="https://survey.su.se/Survey/57665">screening survey</a> to register your interest and check if you are eligible to take part.
 
 ### **Pilotstudie: Tillämpning av kontrollsystemteknik inom rökavvänjning för att optimera en återfallsförebyggande "just-in-time" adaptiv intervention**
-
-<div style="display: flex; justify-content: center;">
-  <embed src="/research/Annonsmaterial.pdf"
-         type="application/pdf"
-         width="800px"
-         height="500px" />
-</div>
 
 #### **Vad är det för ett projekt?**
 
